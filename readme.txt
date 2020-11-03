@@ -99,3 +99,8 @@ This affect can be called as object reference.
 Q15. what do we say this "->" ?
 
 This is called member access Operator.
+
+Q16. Parent:: keyword use ?
+
+parent:: keyword is used in overriding method. When we want to over-ride the parent behaviour in child class and also want to use
+parent methods we use parent::methodname() to access parent method in child class.
